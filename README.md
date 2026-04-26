@@ -74,4 +74,6 @@ I turn raw, messy data into decisions — across healthcare, enterprise, and AI 
 ---
 
 *MS Data Science · University at Buffalo · GPA 3.767/4.0*
+
+
 *BTech CS (AI) · Amrita Vishwa Vidyapeetham · CGPA 8.92/10*
