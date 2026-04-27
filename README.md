@@ -54,10 +54,6 @@ MS Data Science @ University at Buffalo &nbsp;|&nbsp; 2× IEEE Published &nbsp;|
 | [❤️ Heart Attack Prediction](https://github.com/monimithra18/heart-attack-prediction) | End-to-end ML pipeline — EDA → model → FastAPI backend → Streamlit app, Dockerized | Python · FastAPI · Streamlit · Docker |
 | [🔒 CVE Lakehouse on Databricks](https://github.com/monimithra18/cve-lakehouse-databricks) | Cybersecurity intelligence platform ingesting 40,000+ CVEs via Medallion Architecture | PySpark · Databricks · Delta Lake · SQL |
 | [🎭 Multimodal Emotion Recognition](https://github.com/monimithra18/multimodal-emotion-recognition) | Real-time text + audio + image emotion recognition — 96% text accuracy | TensorFlow · Keras · LSTM · CNN |
-| [🎬 Movie Recommender System](https://github.com/monimithra18/movie-recommender-system) | Item-based collaborative filtering engine using cosine similarity on MovieLens data | Python · Pandas · Scikit-Learn |
-| [🐍 Snake Reinforcement Learning](https://github.com/monimithra18/snake-reinforcement-learning) | Deep Q-Network agent that learns to play Snake from zero through trial and error | Python · PyTorch · Pygame |
-| [🗺️ TSP Genetic Algorithm](https://github.com/monimithra18/tsp-genetic-algorithm) | Solving the NP-hard Travelling Salesman Problem using a Genetic Algorithm | Python · NumPy · Matplotlib |
-| [🧮 ALS Matrix Factorization](https://github.com/monimithra18/als-matrix-factorization-matlab) | Collaborative filtering via Alternating Least Squares in MATLAB — demonstrates breadth across languages | MATLAB |
 
 ---
 
