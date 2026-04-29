@@ -2,7 +2,7 @@
 
 **Data Analyst · Data Scientist · ML Engineer**
 
-MS Data Science @ University at Buffalo &nbsp;|&nbsp; 2× IEEE Published &nbsp;|&nbsp; Open to Full-Time Roles in the US
+MS Data Science @ University at Buffalo &nbsp;|&nbsp; 2× IEEE Papers Published &nbsp;|&nbsp; Open to Full-Time Roles in the US
 
 > *I turn raw, messy data into decisions — across healthcare, enterprise, and AI domains.*
 
