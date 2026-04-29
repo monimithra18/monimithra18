@@ -89,4 +89,4 @@ MS Data Science @ University at Buffalo &nbsp;|&nbsp; 2× IEEE Papers Published 
 
 ---
 
-*MS Data Science · University at Buffalo · Open to full-time Data Analyst, Data Scientist, and ML Engineer roles in the US*
+*MS Data Science · University at Buffalo · Open to full-time Data Analyst, Data Scientist, and ML Engineer roles in the US!*
