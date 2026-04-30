@@ -11,7 +11,7 @@ MS Data Science @ University at Buffalo &nbsp;|&nbsp; 2× IEEE Papers Published 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monishmithra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kadiyalamonishmithra.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://monimithra18.github.io)
 
 ---
 
