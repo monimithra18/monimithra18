@@ -85,7 +85,7 @@ MS Data Science @ University at Buffalo &nbsp;|&nbsp; 2× IEEE Papers Published 
 | Degree | Institution | Period | GPA |
 |---|---|---|---|
 | MS, Data Science | University at Buffalo | Aug 2024 – Dec 2025 | 3.767 / 4.0 |
-| BTech, CS (AI) | Amrita Vishwa Vidyapeetham | 2020 – 2024 | 8.92 / 10 |
+| BTech, CS (AI) | Amrita Vishwa Vidyapeetham | 2020 – 2024 | 8.92 / 10 | 
 
 ---
 
