@@ -48,12 +48,12 @@ MS Data Science @ University at Buffalo &nbsp;|&nbsp; 2× IEEE Papers Published 
 ---
 
 ## 📌 Featured Projects
-
 | Project | Description | Stack |
 |---|---|---|
 | [❤️ Heart Attack Prediction](https://github.com/monimithra18/heart-attack-prediction) | End-to-end ML pipeline — EDA → model → FastAPI backend → Streamlit app, Dockerized | Python · FastAPI · Streamlit · Docker |
 | [🔒 CVE Lakehouse on Databricks](https://github.com/monimithra18/cve-lakehouse-databricks) | Cybersecurity intelligence platform ingesting 40,000+ CVEs via Medallion Architecture | PySpark · Databricks · Delta Lake · SQL |
 | [🎭 Multimodal Emotion Recognition](https://github.com/monimithra18/multimodal-emotion-recognition) | Real-time text + audio + image emotion recognition — 96% text accuracy | TensorFlow · Keras · LSTM · CNN |
+| [📉 Customer Churn Analysis](https://www.notion.so/Customer-Churn-Analysis-Power-BI-3574759bd54a801da824ceb22d7c2a81) | Identified churn drivers for a telecom provider — 26.86% churn rate, 44.82% competitor-driven, CA hotspot at 63% | Power BI · DAX · Data Modeling |
 
 ---
 
