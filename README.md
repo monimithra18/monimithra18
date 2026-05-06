@@ -12,6 +12,7 @@ MS Data Science @ University at Buffalo &nbsp;|&nbsp; 2× IEEE Papers Published 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monishmithra)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://monimithra18.github.io)
+[![Case Study](https://img.shields.io/badge/Case_Study-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.notion.so/Case-Studies-3574759bd54a807bbbfde3f7aba1f437)
 
 ---
 
